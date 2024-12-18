@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/QUACKPACK/static/css/main.2fa2e6e9.css",
+    "main.css": "/QUACKPACK/static/css/main.438653bd.css",
     "main.js": "/QUACKPACK/static/js/main.3cdc1134.js",
     "static/media/IMG_8348-removebg-preview 1.png": "/QUACKPACK/static/media/IMG_8348-removebg-preview 1.dc25f460a139335ddb3b.png",
     "index.html": "/QUACKPACK/index.html",
-    "main.2fa2e6e9.css.map": "/QUACKPACK/static/css/main.2fa2e6e9.css.map",
+    "main.438653bd.css.map": "/QUACKPACK/static/css/main.438653bd.css.map",
     "main.3cdc1134.js.map": "/QUACKPACK/static/js/main.3cdc1134.js.map"
   },
   "entrypoints": [
-    "static/css/main.2fa2e6e9.css",
+    "static/css/main.438653bd.css",
     "static/js/main.3cdc1134.js"
   ]
 }
