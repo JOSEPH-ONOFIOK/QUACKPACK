@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/QUACKPACK/static/css/main.3e76a00b.css",
-    "main.js": "/QUACKPACK/static/js/main.3cdc1134.js",
-    "static/media/IMG_8348-removebg-preview 1.png": "/QUACKPACK/static/media/IMG_8348-removebg-preview 1.dc25f460a139335ddb3b.png",
-    "index.html": "/QUACKPACK/index.html",
-    "main.3e76a00b.css.map": "/QUACKPACK/static/css/main.3e76a00b.css.map",
-    "main.3cdc1134.js.map": "/QUACKPACK/static/js/main.3cdc1134.js.map"
+    "main.css": "/quackpack.fun/static/css/main.3e76a00b.css",
+    "main.js": "/quackpack.fun/static/js/main.1c4cf90c.js",
+    "static/media/IMG_8348-removebg-preview 1.png": "/quackpack.fun/static/media/IMG_8348-removebg-preview 1.dc25f460a139335ddb3b.png",
+    "index.html": "/quackpack.fun/index.html",
+    "main.3e76a00b.css.map": "/quackpack.fun/static/css/main.3e76a00b.css.map",
+    "main.1c4cf90c.js.map": "/quackpack.fun/static/js/main.1c4cf90c.js.map"
   },
   "entrypoints": [
     "static/css/main.3e76a00b.css",
-    "static/js/main.3cdc1134.js"
+    "static/js/main.1c4cf90c.js"
   ]
 }
