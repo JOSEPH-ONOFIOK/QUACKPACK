@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/quackpack.fun/static/css/main.3e76a00b.css",
-    "main.js": "/quackpack.fun/static/js/main.1c4cf90c.js",
-    "static/media/IMG_8348-removebg-preview 1.png": "/quackpack.fun/static/media/IMG_8348-removebg-preview 1.dc25f460a139335ddb3b.png",
-    "index.html": "/quackpack.fun/index.html",
-    "main.3e76a00b.css.map": "/quackpack.fun/static/css/main.3e76a00b.css.map",
-    "main.1c4cf90c.js.map": "/quackpack.fun/static/js/main.1c4cf90c.js.map"
+    "main.css": "/static/css/main.3e76a00b.css",
+    "main.js": "/static/js/main.a62c8887.js",
+    "static/media/IMG_8348-removebg-preview 1.png": "/static/media/IMG_8348-removebg-preview 1.dc25f460a139335ddb3b.png",
+    "index.html": "/index.html",
+    "main.3e76a00b.css.map": "/static/css/main.3e76a00b.css.map",
+    "main.a62c8887.js.map": "/static/js/main.a62c8887.js.map"
   },
   "entrypoints": [
     "static/css/main.3e76a00b.css",
-    "static/js/main.1c4cf90c.js"
+    "static/js/main.a62c8887.js"
   ]
 }
